@@ -1,3 +1,3 @@
-name = input("Wie heisst du: ")
+name = input("Wie heisst du Korrektur: ")
 
 print("Hallo", name)
