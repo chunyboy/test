@@ -1,0 +1,2 @@
+def penis():
+    print("huhu")
