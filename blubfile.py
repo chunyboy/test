@@ -1,2 +1,6 @@
 class Blub:
-  pass
+    pass
+
+
+class Ja:
+    pass
